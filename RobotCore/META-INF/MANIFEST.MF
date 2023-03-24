@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: thu.robots.Main
+Class-Path: GeoRegression-georegression-0.16-SNAPSHOT.jar
+
